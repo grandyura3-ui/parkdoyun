@@ -1,0 +1,6 @@
+{
+  "name": "모의입법소",
+  "description": "규칙이 사람을 만나기 전에, 먼저 겪어보는 곳. 학교 규칙안을 발의하고 가상의 이해관계자 토론, 영향평가, 개정안 비교, 가치 성찰을 거쳐 입법 결과서를 작성하는 제도 설계 시뮬레이터입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
